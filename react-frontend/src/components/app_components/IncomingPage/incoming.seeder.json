@@ -1,0 +1,20 @@
+[
+    {
+        "product": "Pick List - Products",
+        "estate": "Pick List - Estates",
+        "doNumber": "DO2134234234",
+        "trailorNumber": "LKM27",
+        "remark": "11/17/181/9",
+        "seal": "KMJ093847-789",
+        "contract": "CNTR-2025-0001",
+        "vehicleNumber": "Pick List - Vehicles",
+        "supplier": "Pick List - Suppliers",
+        "driver": "Pick List - Drivers",
+        "transporter": "Pick List - Transporters",
+        "firstWeight": 11480,
+        "secondWeight": 0,
+        "adjustment": 0,
+        "adjustedWeight": 0,
+        "netWeight": 0
+    }
+]

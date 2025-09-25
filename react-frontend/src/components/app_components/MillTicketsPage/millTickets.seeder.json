@@ -1,0 +1,16 @@
+[
+    {
+        "estateWbTicketNumber": "D003577",
+        "estateName": "LADANG KUMPULAN MELAYU",
+        "estateDoNumber": "EST/DO/20250918/1001",
+        "millTicketNumber": 202508000314,
+        "millReceivedTime": 45874.43059027778,
+        "millDespatchTime": 45874.4590625,
+        "estateWeight": 28460,
+        "millWeight": 28000,
+        "millRejectedWeight": 460,
+        "penalty": 0,
+        "oer": 19.56,
+        "cropHarvestedBy": "Contract"
+    }
+]
